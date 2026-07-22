@@ -14,6 +14,8 @@ Referenced in the [Nife docs](https://docs.nife.io/Deploy) as one-click deploy e
 - **[go-todo-list](https://github.com/nife-public/go-todo-list)** — Sample Go web app
 - **[docker-spring-boot-java-web-service-example](https://github.com/nife-public/docker-spring-boot-java-web-service-example)** — Sample Dockerized Spring Boot web service
 - **[docker-hello-world-spring-boot](https://github.com/nife-public/docker-hello-world-spring-boot)** — Sample Dockerized Spring Boot hello-world app
+- **[react-wordle](https://github.com/nife-public/react-wordle)** — Sample React Wordle app
+- **[ShudhOpenVino](https://github.com/nife-public/ShudhOpenVino)** — Python-based OpenVINO application
 
 ## Other demos
 - **[pingpong](https://github.com/nife-public/pingpong)** — Cognitive assistant that recommends which side to hit a ping-pong ball to
